@@ -247,3 +247,93 @@
 // }
 
 
+// 17-masala
+
+// alert("a sonni kiriting kiritgan son 3 xonali toq ekanligini tekshiring;");
+
+// let a = +prompt('a sonni kiritng;');
+
+// if ( a >= 100 && a < 1000 && a % 2 == 1 ){
+// console.log(true);
+// }else{
+// console.log(false);
+// };
+
+
+// 18-masala
+
+// alert("uchta son kiriting hech bolmaganda 2 tasi bir biriga teng ekanligini tekshiring;");
+
+// let a = +prompt('a sonni kiriting;');
+
+// let b = +prompt('b sonni kiriting;');
+
+// let c = +prompt('c sonni kiriting;');
+
+// if ( a == b || a == c || b == c ){
+// console.log(true);
+// }else{
+// console.log(false);
+// };
+
+
+// 19-masala
+
+// alert("")
+
+
+// 20-masala
+
+// alert("uch honali son kiriting va uni ha bir raqami har hil ekanligini tekshiring;");
+
+// let a = +prompt('99 < a < 1000 sonni kiriting;');
+
+// let yuzlik = a/100;
+// let onlik = a/10%10;
+// let birlik = a%10;
+
+// if (yuzlik == onlik || yuzlik == birlik || onlik == birlik){
+// console.log(false);
+// }else{
+// console.log(true);
+// };
+
+
+// 21-masala
+
+// alert("uch xonali son kiritng uning raqamlari joylashuvi ketma ketligini o'suvchi ekanligini tekshiring;");
+
+// let a = +prompt('a sonni kiriting;');
+
+// if(a > 99 && a < 1000){
+// let y = a/100;
+// let o = a/10%10;
+// let b = a%10;
+// if(y > o > b){
+// console.log(true);
+// } else{
+//     console.log(false);
+// };
+// };
+
+
+// 22-masala
+
+// alert("uch xonali son kiritng uning raqamlari ketma ketligini o'suvchi yoki kamayuvchi ekanligini tekshiring;");
+
+// let a = +prompt('a sonni kiriting;');
+
+// if(a > 99 && a < 1000){
+// let y = a/100;
+// let o = a/10%10;
+// let b = a%10;
+//  if ( y > o > b || b > o > y){
+// console.log(true);
+// } else{
+//     console.log(false);
+// };
+// };
+
+
+// 23-masala
+
